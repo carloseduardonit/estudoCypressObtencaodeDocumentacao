@@ -1,0 +1,20 @@
+{
+  "name": "pasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Carlos Eduardo ",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1",
+    "eslint-plugin-cypress": "^2.15.1",
+    "jsforce": "^1.11.1"
+  },
+  "dependencies": {
+    "Cypress-xpath": "npm:cypress-xpath@^2.0.1"
+  }
+}

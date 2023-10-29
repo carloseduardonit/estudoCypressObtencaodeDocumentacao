@@ -1,0 +1,9 @@
+cypress/e2e/CertidaoNegativaDebito/NOK
+cypress/Ignore/
+cypress/Arquivos/Emissor de certidão negativa.docx
+cypress/fixtures/
+IniciarProjeto.bat
+cypress/screenshots
+cypress/e2e/Salesforce
+cypress/downloads
+cypress/Seletor/teste.selector.cy.js
